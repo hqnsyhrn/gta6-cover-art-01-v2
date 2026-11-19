@@ -1,6 +1,8 @@
 # Neon Coast — Poster Cover Studio (v2)
 
 [![make.fun](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/hqnsyhrn/gta6-cover-art-01-v2/rank.svg)](https://make.fun/bounty/gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/hqnsyhrn/gta6-cover-art-01-v2/reward.svg)](https://make.fun/bounty/gta6-cover-art-01)
 
 An offline web app that turns any photos into a GTA 6-style poster, built for the
 [make.fun bounty gta6-cover-art-01](https://make.fun/bounty/gta6-cover-art-01).
